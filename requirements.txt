@@ -1,0 +1,11 @@
+# requirements.txt
+
+streamlit
+pandas
+langchain
+langchain-google-genai
+langchain-community
+langchain-experimental
+gradio
+python-dotenv
+tabulate
